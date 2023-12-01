@@ -1,2 +1,2 @@
-# advent-of-steps
+# Advent of Steps
 Notes taken from Emil Hvitfeldt's posts
