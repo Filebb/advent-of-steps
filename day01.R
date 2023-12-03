@@ -1,7 +1,6 @@
-library(tibble)
 library(recipes)
 
-example_data <- tribble(
+example_data <- tibble::tribble(
     ~ language,
     "English, Italian",
     "Spanish, French",
